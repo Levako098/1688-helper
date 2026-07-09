@@ -8,6 +8,12 @@ python start.py
 pause
 ```
 
+# input или "нажмите кнопку чтоб пройти дальше"
+
+```python
+input("Нажмите Enter чтоб пройти дальше")
+```
+
 
 # красим текст в консольке чтоб было вот так: 
 ![photo](assets/colorama.png)
