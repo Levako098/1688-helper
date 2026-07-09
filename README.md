@@ -42,3 +42,11 @@ print(one + two)
 ```bash
 15
 ```
+
+# калькулятор с выбором числа пользователем
+
+```python
+a = input("->")
+b = input("->")
+print(int(a) + int(b)) 
+```
