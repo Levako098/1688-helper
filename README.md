@@ -1,9 +1,18 @@
 # Гайд #2
 
-красим текст в консольке чтоб было вот так: 
+# запуск скриптов
+
+```bash
+@echo off
+python start.py
+pause
+```
+
+
+# красим текст в консольке чтоб было вот так: 
 ![photo](assets/colorama.png)
 
-1 покраска с colorama: 
+# покраска с colorama: 
 
 ```python
 from colorama import Fore, init # импортируем из библиотеки colorama init, fore
