@@ -10,5 +10,20 @@ from colorama import Fore, init # импортируем из библиотек
 
 init()
 
-print(f"{Fore.GREEN} Green Text"
+print(f"{Fore.GREEN} Green Text")
+```
+
+сложение чисел с python: 
+
+```python
+one = 5 # записываем в переменную 1 число то етсь 5 
+
+two = 10 # все тоже самое только число 10 
+
+print(one + two)
+```
+
+вывод: 
+```bash
+15
 ```
